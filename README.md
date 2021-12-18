@@ -1,7 +1,7 @@
 -# https-doc.copilgouv.ga.github.io
 République Gabonnaise - Authentification des tests COVID
 
-<!-- saved from url=(0217)https://doc.copilgouv.ga/?q=-aAVm8uE1y1hzFf2HN5HdiZayWeW35f0P/a0ERCVjP/5M5vMHlcNBz1VHIM18iM+HIY0LgM5avNu8KlvYU2eiCzM7MDpNQkVOSSA7MTpKQU5JTkU7MTM6MDEtMDEtMTk1NzsxNTpOZWdhdGlmOzE0OjEyLTEwLTIwMjE7OToyMTEwMTJQMzMwMTIyMg== -->
+<!-- saved from url=(0217)https://doc.copilgouv.ga/?q=-SNpayn0ow/bCfVtDsu39a6tUtbqiGKuRgK4N4sm+x7DniAqrVDpot6N8pS5cAnT/H7faisRN3UYlpyQQHD91AzM7MDpOVFNPTk8gICAgTklDRVRURTsxOkZFUk5BTkRFOzEzOjA3LTA0LTE5NzM7MTU6TmVnYXRpZjsxNDoxMi0xMS0yMDIxOzk6MjExMTEyUDk0MDAwMjY= -->
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         
         <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -19,7 +19,7 @@ République Gabonnaise - Authentification des tests COVID
                     </div>
                 </div>
                 <li class="nav-item navbar-nav dropdown">
-                    <a class="nav-link dropdown-toggle translate" href="https://doc.copilgouv.ga/?q=-aAVm8uE1y1hzFf2HN5HdiZayWeW35f0P/a0ERCVjP/5M5vMHlcNBz1VHIM18iM+HIY0LgM5avNu8KlvYU2eiCzM7MDpNQkVOSSA7MTpKQU5JTkU7MTM6MDEtMDEtMTk1NzsxNTpOZWdhdGlmOzE0OjEyLTEwLTIwMjE7OToyMTEwMTJQMzMwMTIyMg==#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" i18n="lang" aria-expanded="false">Langage</a>
+                    <a class="nav-link dropdown-toggle translate" href="https://doc.copilgouv.ga/?q=-SNpayn0ow/bCfVtDsu39a6tUtbqiGKuRgK4N4sm+x7DniAqrVDpot6N8pS5cAnT/H7faisRN3UYlpyQQHD91AzM7MDpOVFNPTk8gICAgTklDRVRURTsxOkZFUk5BTkRFOzEzOjA3LTA0LTE5NzM7MTU6TmVnYXRpZjsxNDoxMi0xMS0yMDIxOzk6MjExMTEyUDk0MDAwMjY=#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" i18n="lang" aria-expanded="false">Langage</a>
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                         <li>
                             <button class="dropdown-item switch-lang" lang="en-US">
